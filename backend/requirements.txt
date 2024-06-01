@@ -1,0 +1,6 @@
+Flask==3.0.3
+uwsgi==2.0.18
+requests==2.19.1
+Flask-SocketIO==5.3.6
+gevent
+gevent-websocket
